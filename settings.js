@@ -61,9 +61,9 @@ global.gopay = "Tidak Tersedia"
 
 // Settings Image Url
 global.image = {
-menu: "https://img100.pixhost.to/images/667/540077550_skyzopedia.jpg", 
-reply: "https://img100.pixhost.to/images/667/540081678_skyzopedia.jpg", 
-logo: "https://img100.pixhost.to/images/667/540081678_skyzopedia.jpg", 
+menu: "https://i.pinimg.com/564x/e4/1b/6d/e41b6d181bfcf835f06f76542b44bd91.jpg", 
+reply: "https://i.pinimg.com/564x/e4/1b/6d/e41b6d181bfcf835f06f76542b44bd91.jpg", 
+logo: "https://i.pinimg.com/564x/e4/1b/6d/e41b6d181bfcf835f06f76542b44bd91.jpg", 
 dana: "https://img100.pixhost.to/images/667/540082364_skyzopedia.jpg", 
 ovo: "https://img100.pixhost.to/images/667/540082774_skyzopedia.jpg", 
 gopay: "https://img100.pixhost.to/images/667/540083275_skyzopedia.jpg", 
