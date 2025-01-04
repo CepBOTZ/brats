@@ -20,19 +20,19 @@ const chalk = require('chalk');
 const { version } = require("./package.json")
 
 // Settings Bot 
-global.owner = '6285624297893'
+global.owner = '6285860732295'
 global.versi = version
-global.namaOwner = "Skyzopedia"
-global.packname = 'Bot WhatsApp'
-global.botname = 'Simple Bot Skyzopedia'
-global.botname2 = 'Simple Bot'
+global.namaOwner = "Gocep"
+global.packname = 'Gocep Bot'
+global.botname = 'Bot Jelek'
+global.botname2 = 'Bot Gaje'
 
 global.tempatDB = 'database.json' // Jangan ubah
 global.pairing_code = true // Jangan ubah
 
 // Settings Link / Tautan
-global.linkOwner = "https://wa.me/6285624297893"
-global.linkGrup = "https://chat.whatsapp.com/FfbJmoSoTy12VZyXJTzXPT"
+global.linkOwner = "https://wa.me/6285860732295"
+global.linkGrup = "https://chat.whatsapp.com/nothing"
 
 // Delay Jpm & Pushctc || 1000 = 1detik
 global.delayJpm = 3500
