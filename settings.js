@@ -1,20 +1,3 @@
-/* 
-
-=========================================================================
-
-  #- Credits By Skyzopedia
-   Contact: https://6285624297893
-   Youtube: https://youtube.com/@skyzodev
-   Telegram: https://t.me/skyzodev
-    
-  Developer : https://wa.me/6285624297893
-  
-  -[ ! ]- Jangan hapus contact developer! hargai pembuat script ini
-
-=========================================================================
-
-*/
-
 const fs = require('fs');
 const chalk = require('chalk');
 const { version } = require("./package.json")
@@ -23,9 +6,9 @@ const { version } = require("./package.json")
 global.owner = '6285860732295'
 global.versi = version
 global.namaOwner = "Gocep"
-global.packname = 'Gocep Bot'
-global.botname = 'Bot Jelek'
-global.botname2 = 'Bot Gaje'
+global.packname = 'CepzxD'
+global.botname = 'CepxzD'
+global.botname2 = 'CepxzD'
 
 global.tempatDB = 'database.json' // Jangan ubah
 global.pairing_code = true // Jangan ubah
